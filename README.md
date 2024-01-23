@@ -8,3 +8,18 @@ This shell simulation replicates a real Linux shell, offering users the ability 
 To build the file, use the following command:
 ```bash
 make all
+
+### Run the File
+To run the file, use:
+```bash
+make run
+
+### Clean the File
+To clean the file, use:
+```bash
+make clean
+
+Note: Before running the program, ensure that you have the readline library installed. You can install it using the following command:
+```bash
+sudo apt-get install libreadline-dev
+
