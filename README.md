@@ -5,5 +5,3 @@ This shell simulation emulates a Linux shell, providing users with the ability t
 Note: Before running the program, you need to install the readline library using the following command:
 ```bash
 sudo apt-get install libreadline-dev
-
-
